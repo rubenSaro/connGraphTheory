@@ -1,2 +1,2 @@
 # connGraphTheory
-Repository for the Fall 2023 Foundations 3 (CMBN Rutgers Newark) lab on connectivity and graph theory
+Repository for the Foundations 3 lab on connectivity and graph theory (CMBN Rutgers Newark)
